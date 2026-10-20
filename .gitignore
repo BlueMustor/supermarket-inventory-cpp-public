@@ -1,0 +1,33 @@
+# Build output and local runtime data
+/build/
+/bin/
+/data/
+/backups/
+**/data/
+**/backups/
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+*.ii
+*.pdb
+*.ilk
+*.db
+.market.lock
+store.db.tmp_*
+
+# Editor settings, logs, and local credentials
+.vs/
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+.env
+.env.*
+*.pem
+*.key
+Thumbs.db
+.DS_Store
